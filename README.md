@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Aboykiy
 - 👀 I’m interested in software and game development.
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently developing games using Unity, C#
 - 📫 Discord is probably the best place to reach me, Aboykiy#8246
